@@ -1,10 +1,12 @@
 {
   "jupyter-config-data": {
+    "appName": "Notebook | The Programming Foundation",
     "disabledExtensions": [
       "@jupyterlab/drawio-extension",
       "jupyterlab-kernel-spy",
       "jupyterlab-tour"
     ],
+    "faviconUrl": "static/img/favicon.ico",
     "settingsUrl": "../build/schemas",
     "themesUrl": "./build/themes"
   },

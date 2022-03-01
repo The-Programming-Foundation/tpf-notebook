@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-01T10:12:29.742523Z",
+      "created": "2022-03-01T11:29:10.685521Z",
       "format": null,
-      "last_modified": "2022-03-01T10:11:50.045690Z",
+      "last_modified": "2022-03-01T11:28:30.934036Z",
       "mimetype": null,
       "name": "python.ipynb",
       "path": "python.ipynb",
@@ -14,20 +14,20 @@
     },
     {
       "content": null,
-      "created": "2022-03-01T10:12:29.742523Z",
+      "created": "2022-03-01T11:29:10.681521Z",
       "format": null,
-      "last_modified": "2022-03-01T10:12:28.130495Z",
+      "last_modified": "2022-03-01T11:29:09.353547Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
-      "size": 2141,
+      "size": 1716,
       "type": "file",
       "writable": true
     }
   ],
-  "created": "2022-03-01T10:12:29.742523Z",
+  "created": "2022-03-01T11:29:10.685521Z",
   "format": "json",
-  "last_modified": "2022-03-01T10:12:29.742523Z",
+  "last_modified": "2022-03-01T11:29:10.685521Z",
   "mimetype": null,
   "name": "",
   "path": "",

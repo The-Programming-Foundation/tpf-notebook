@@ -12,20 +12,12 @@ Check that you have Github Pages enabled for your repository: from your reposito
 
 When you commit a file, an updated release will be built and published on the Github Pages site. Note that it may take a few minutes for the Github Pages site to be updated. Do a hard refresh on your Github Pages site in your web browser to see the new release.
 
-### Further Information and Updates
+### Further Information and Updates (JupyterLite)
 
 For more info, keep an eye on the JupyterLite documentation:
 
 - Configuring: https://jupyterlite.readthedocs.io/en/latest/configuring.html
 - Deploying: https://jupyterlite.readthedocs.io/en/latest/deploying.html
-
-### Deploy a new version of JupyterLite
-
-To change the version of the prebuilt JupyterLite assets, update the `jupyterlite` package version in the [requirements.txt](./blob/main/requirements.txt) file.
-
-The `requirements.txt` file can also be used to add extra prebuilt ("federated") JupyterLab extensions to the deployed JupyterLite website.
-
-Commit and push any changes. The site will be deployed on the next push to the `main` branch.
 
 ## Development
 

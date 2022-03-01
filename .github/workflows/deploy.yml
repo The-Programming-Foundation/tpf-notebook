@@ -24,7 +24,7 @@ jobs:
       - name: Build the JupyterLite site
         run: |
           cp README.md content
-          jupyter lite build --contents content && cd _output/repl/ && sed -i 's/JupyterLite/Notebook | The Programming Foundation/g' index.html
+          jupyter lite build --contents content
       - name: Upload (dist)
         uses: actions/upload-artifact@v2
         with:

@@ -1,14 +1,9 @@
 {
   "jupyter-config-data": {
-    "appName": "Notebook | The Programming Foundation",
+    "appName": "JupyterLite",
     "appUrl": "./lab",
     "appVersion": "0.1.0-beta.0",
     "baseUrl": "./",
-    "disabledExtensions": [
-      "@jupyterlab/drawio-extension",
-      "jupyterlab-kernel-spy",
-      "jupyterlab-tour"
-    ],
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
@@ -34,8 +29,29 @@
       {
         "extension": "./extension",
         "liteExtension": true,
+        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
+        "name": "@jupyterlite/p5-kernel-extension",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.8326538f2f0a7c1ebd2d.js",
+        "name": "@jupyterlite/xeus-lua-kernel",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
         "load": "static/remoteEntry.cdcaee8055a96e376858.js",
         "name": "@jupyterlite/xeus-sqlite-kernel",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.5aee68a83eb92c7d0941.js",
+        "name": "@jupyterlite/xeus-wren-kernel",
         "style": "./style"
       },
       {
@@ -43,6 +59,12 @@
         "liteExtension": false,
         "load": "static/remoteEntry.bf6b3192a558615425cd.js",
         "name": "@telamonian/theme-darcula"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.145e469029155b53b350.js",
+        "name": "@timkpaine/jupyterlab_miami_nights"
       },
       {
         "extension": "./extension",
@@ -67,6 +89,13 @@
         "liteExtension": false,
         "load": "static/remoteEntry.0a859bd5f4f46047146d.js",
         "name": "jupyter-matplotlib"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
+        "name": "jupyter-wren-syntax",
+        "style": "./style"
       },
       {
         "extension": "./extension",

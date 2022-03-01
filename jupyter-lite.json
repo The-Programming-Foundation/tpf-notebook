@@ -1,9 +1,14 @@
 {
   "jupyter-config-data": {
-    "appName": "JupyterLite",
+    "appName": "Notebook | The Programming Foundation",
     "appUrl": "./lab",
     "appVersion": "0.1.0-beta.0",
     "baseUrl": "./",
+    "disabledExtensions": [
+      "@jupyterlab/drawio-extension",
+      "jupyterlab-kernel-spy",
+      "jupyterlab-tour"
+    ],
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {

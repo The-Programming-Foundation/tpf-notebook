@@ -33,4 +33,5 @@ cython
 pytest
 requests
 scrapy
+imbalanced-learn
 

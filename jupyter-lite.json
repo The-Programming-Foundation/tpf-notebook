@@ -9,7 +9,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.f6574b55a223d23e7a04.js",
+        "load": "static/remoteEntry.1116b848a6f7126bf3e9.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
@@ -21,7 +21,7 @@
       },
       {
         "liteExtension": false,
-        "load": "static/remoteEntry.b75c764d727b50009261.js",
+        "load": "static/remoteEntry.f6be43672b078c208aab.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/geojson-extension",
         "style": "./style"
@@ -36,31 +36,31 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.bf6b3192a558615425cd.js",
+        "load": "static/remoteEntry.8a4c97071917cf84832f.js",
         "name": "@telamonian/theme-darcula"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.af71ba374fc8128e6506.js",
+        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
         "name": "bqplot"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.5ffed1c4b9b9ce1f7b00.js",
+        "load": "static/remoteEntry.9693baf6fc7fc4c880d2.js",
         "name": "ipycanvas"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.8f5cefaa26fbae099326.js",
+        "load": "static/remoteEntry.a397b41514ddde5db0df.js",
         "name": "jupyter-leaflet"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.0a859bd5f4f46047146d.js",
+        "load": "static/remoteEntry.6b5d328600b8f618f724.js",
         "name": "jupyter-matplotlib"
       },
       {
@@ -73,7 +73,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.f372bf1de02fb50ae6e0.js",
+        "load": "static/remoteEntry.8391480ec10f46a915ee.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
@@ -82,6 +82,13 @@
         "liteExtension": false,
         "load": "static/remoteEntry.5a1869d4304cb9223cfc.js",
         "name": "jupyterlab-tour",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.aa1060b2d1221f8e5688.js",
+        "name": "jupyterlab_pygments",
         "style": "./style"
       }
     ],
